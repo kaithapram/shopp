@@ -1,0 +1,12 @@
+---
+layout: post
+title:  >
+    Test post 22 march 2020
+date:   2020-03-22 13:44:21 +0000
+---
+
+
+test
+<span class="text-info">Price : 499</span>  
+<!-- more -->  
+<a href="Your paytm link here" class="btn btn-primary">Buy Now</a>  

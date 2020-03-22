@@ -1,0 +1,29 @@
+title: ബിസ്മി
+email: monsoondesigners@gmail.com
+description: മെഡിക്കൽ പ്രോഡക്ട് കുറഞ്ഞ വിലയിൽ
+
+baseurl: "/"
+url: https://monsoonmalabar.com/shopp
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: ബിസ്മി
+
+date: 2020-03-22 13:44:37 +0000
+
+
+logo: false
+
+paginate: 10
+adsid: ca-pub-8582082279264878
+excerpt_separator: <!-- more -->
+domain_name: https://monsoonmalabar.com/shopp/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: ബിസ്മി
